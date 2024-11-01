@@ -1,0 +1,7 @@
+C:\Users\rory_\source\repos\Async\Async\bin\Debug\Async.exe.config
+C:\Users\rory_\source\repos\Async\Async\bin\Debug\Async.exe
+C:\Users\rory_\source\repos\Async\Async\bin\Debug\Async.pdb
+C:\Users\rory_\source\repos\Async\Async\obj\Debug\Async.csprojAssemblyReference.cache
+C:\Users\rory_\source\repos\Async\Async\obj\Debug\Async.csproj.CoreCompileInputs.cache
+C:\Users\rory_\source\repos\Async\Async\obj\Debug\Async.exe
+C:\Users\rory_\source\repos\Async\Async\obj\Debug\Async.pdb
